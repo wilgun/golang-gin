@@ -1,2 +1,5 @@
 # golang-gin
-Basic Backend Service using Golang, Gorm, Gin
+Basic REST API using
+* Go
+* Gorm
+* Gin Gonic
